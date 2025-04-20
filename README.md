@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20🙋‍♀️Hi%20I%27m%20Solbee%20Cho👋&fontSize=80" alt="banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FFB199,FFF1E6&height=200&section=header&text=%20%20💻chosolbee's%20GitHub&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=40" alt="banner"/>
 </p>
+
 <br>
 <br>
 
