@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 💬 Profile
-<p align="center">
-  I’m an undergraduate student in Computer Science at Sookmyung Women’s University (Seoul, Korea).  
+<p align="left">
+  I’m an undergraduate student in Computer Science at Sookmyung Women’s University
 </p>
 <br>
 <br>
