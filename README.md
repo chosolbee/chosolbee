@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💬 Profile
 <p align="left">
-  I’m an undergraduate student in Computer Science at Sookmyung Women’s University
+  I am an undergraduate student majoring in Computer Science at Sookmyung Women's University.
 </p>
 <br>
 <br>
