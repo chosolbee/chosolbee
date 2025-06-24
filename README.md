@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FFB199,FFF1E6&height=200&section=header&text=%20%20💻chosolbee's%20GitHub&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=40" alt="banner"/>
@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+-->
 
-## 💬 Profile
+## 👋 Hi there
 <p align="left">
   I am an undergraduate student majoring in Computer Science at Sookmyung Women's University.
 </p>
@@ -44,7 +45,6 @@ Here are some ideas to get you started:
   <br/><br/>
   <!-- ML & Libraries -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/HuggingFace-F47E1D?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace"/>
   <br/><br/>
